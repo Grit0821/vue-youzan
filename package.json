@@ -14,7 +14,7 @@
     "mint-ui": "^2.2.13",
     "qs": "^6.7.0",
     "require": "^2.4.20",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "velocity-animate": "^1.5.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
